@@ -4,3 +4,4 @@ This small demonstration integrates D3JS svg components with the leaflet web map
 
 The code is font-end only with javascript and html, no server-side requirement
 
+Copyrights belong to D3JS and Leaflet
